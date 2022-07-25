@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* ---------------------------------------------------------------------------------------- */
+
+
+
+.add-note-input{
+  border: none;
+  background-color: #8a9290;
+  resize: none;
+  outline: none;
+}
+
+.modal-body input{
+  border: none;
+  background-color: transparent;
+  resize: none;
+  outline: none;
+}
+
